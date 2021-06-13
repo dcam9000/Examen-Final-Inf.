@@ -1,0 +1,11 @@
+    body { 
+    background:cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: inherit;
+    margin: auto;
+    border: black;}
+    h1 { color:maroon;
+    font-family: 'Times New Roman', Times, serif;}
+    p{ color:black;
+    font-family: 'Times New Roman', Times, serif;}
+    }
